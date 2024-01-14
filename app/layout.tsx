@@ -10,8 +10,8 @@ import { getServerSideConfig } from "./config/server";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "NextChat",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "EasonChen的GPT",
+  description: "EasonChen的GPT镜像站（",
   viewport: {
     width: "device-width",
     initialScale: 1,
